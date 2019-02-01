@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:0,SHANT PREMIUM HD
+#EXTGRP:unsorted
+http://79.133.111.11:999/udp/239.191.255.147:15283
+#EXTINF:0,shant
+#EXTGRP:unsorted
+http://92.39.227.235:81/udp/235.10.10.169:1234
+#EXTINF:0,H1
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s1/04.m3u8
+#EXTINF:0,H2
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:0,H3
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:0,Azatutyun
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s3/04.m3u8
+#EXTINF:0,Armenia
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:0,Kentron
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s5/04.m3u8
+#EXTINF:0,5TV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:0,Erkir Media
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:0,ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s8/04.m3u8
+#EXTINF:0,AR
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:0,21TV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s10/04.m3u8
+#EXTINF:0,Arm News
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s11/04.m3u8
+#EXTINF:0,Shorakat
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s13/04.m3u8
+#EXTINF:0,Premium1
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:0,Hay Kino
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:0,Jan TV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:0,Comedi
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s32/04.m3u8
+#EXTINF:0,Tun Tunik
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s46/04.m3u8
+#EXTINF:0,Cineman
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:0,Filmzon ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:0,Kinoman ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:0,Xaraliq ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s74/04.m3u8
+#EXTINF:0,hay ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:0,Tava ATV
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:0,TBN Armenia
+#EXTGRP:unsorted
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8?sd=10&rebase=on
